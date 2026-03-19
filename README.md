@@ -9,9 +9,9 @@ Este repositório contém a entrega da atividade de Arquitetura Orientada a Serv
 * **WineOrderClient (Consumer 2):** Cliente configurado para realizar o pedido e consultar o sistema de avisos de estoque.
 
 ## 👥 Integrantes do Grupo
-* [Enzo Almeida] - RM: [556900]
-* [Guilherme Moreira] - RM: [557290]
-* [Gabriel Mello] - RM: [554421]
-* [José Kretzer] - RM: [555523]
+* Enzo Almeida - RM: 556900
+* Guilherme Moreira - RM: 557290
+* Gabriel Mello - RM: 554421
+* José Kretzer - RM: 555523
 
 
